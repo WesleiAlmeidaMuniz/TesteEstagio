@@ -19,4 +19,4 @@ function fibonacci(resp){
   
 }
 
-console.log(fibonacci(610));
+console.log(fibonacci(60));
