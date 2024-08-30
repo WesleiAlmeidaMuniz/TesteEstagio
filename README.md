@@ -33,18 +33,25 @@ Esse número pode ser informado através de qualquer entrada de sua preferência
 3-) Resposta:
 
 O menor valor foi 373.7838 no dia 14
+
 O maior valor foi 48924.2448 no dia 16
-Os dias que o valor diario foi superior a media mensal foram: 1, 2, 3, 6, 8, 9, 16, 20, 21, 27, 
+
+Os dias que o valor diario foi superior a media mensal foram: 1, 2, 3, 6, 8, 9, 16, 20, 21, 27
 
 [Resposta da Questão 3](Questao3.js)
 
 4-) Resposta: 
 
 O percentual de representação do estado de SP foi de 37.53%
+
 O percentual de representação do estado de RJ foi de 20.29%
+
 O percentual de representação do estado de MG foi de 16.17%
+
 O percentual de representação do estado de ES foi de 15.03%
+
 O percentual de representação de outros estados foi de 10.98%
+
 
 [Resposta da Questão 4](Questao4.js)
 
